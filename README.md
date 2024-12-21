@@ -3,7 +3,7 @@
 - 🌱 Actualmente estoy aprendiendo R y Python entre otros
 - 💞️ Me gustaria colaborar con proyectos de codigo libre
 - 📫 Me puedes contactar en las redes sociales como @davidaltamiranohn
-- 😄 Pronombbres: aqui no hacemos eso.
+- 😄 Pronombres: aqui no hacemos eso.
 - ⚡ Fun fact: en proceso.
 
 <!---
